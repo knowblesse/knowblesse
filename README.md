@@ -1,9 +1,12 @@
-Hi, I’m @knowblesse currently in integrated doctoral course in behavioral neuroscience.
-I'm interested in so many topics, but mainly my research focus is creating a neuro-inspired computational algorithm.
-I also utilize computational tools from the ML field to translate neural data into human-understandable form.
-I'm working on my own project of home automation for fun and I love to use what I've learnt into my own life. 
+Hi, I'm Dr. Ji Hoon Jeong, a postdoctoral associate from the Department of Neuroscience at Yale University, New Haven, CT, USA.
 
-I'm desperate to find someone like me, love coding, design electronic circuits, build stuff with 3D printer, etc..., 
-so please contact me if you have a fun project to share or comments for my work. 
+I began coding for fun because I enjoyed automation, creating new things, and exploring the innovations of other great minds. 
+Although my research demands a significant amount of coding, I still love the process itself.
 
-Thank you!
+As I am self-taught in coding, I might lack fundamental software design knowledge and could make mistakes in a collaborative environment. 
+
+If you ever notice such moments, please kindly point them out. It will greatly benefit my future projects. 
+
+I believe it's better to have many flaws identified than to be overlooked entirely.
+
+Thank you for visiting this page!
